@@ -3,6 +3,8 @@
 This project is a PHP-based email verification system where users can register to receive GitHub timeline updates every 5 minutes. It includes features for email verification, unsubscription, and a CRON job for fetching and sending updates.
 
 ---
+## website Look After Running
+![Screenshot (406)](https://github.com/user-attachments/assets/3e0a5403-6f60-4966-bc34-7ae509acea3e)
 
 ## 🚀 Features
 
