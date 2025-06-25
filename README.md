@@ -1,6 +1,15 @@
-# GH-Timeline Email Subscription Service
+# 📧 Email Verification System with GitHub Timeline Updates
+This is a PHP-based email verification and subscription system built as part of an assignment from rtCamp. Users can register with their email to receive periodic GitHub timeline updates. The project features:
 
-This project is a PHP-based email verification system where users can register to receive GitHub timeline updates every 5 minutes. It includes features for email verification, unsubscription, and a CRON job for fetching and sending updates.
+Email verification using a 6-digit code
+
+Unsubscribe mechanism with confirmation
+
+CRON job that fetches and emails GitHub timeline updates every 5 minutes
+
+All data is stored in plain text (registered_emails.txt), no database used
+
+Fully implemented using pure PHP and mail() function
 
 ---
 ## website Look After Running
